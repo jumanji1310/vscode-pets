@@ -29,7 +29,7 @@ const pets: { [key: string]: { colors: string[]; states: string[] } } = {
             'with_ball',
         ],
     },
-    chicken: {
+    pilee: {
         colors: ['white'],
         states: ['idle', 'run', 'swipe', 'walk', 'walk_fast', 'with_ball'],
     },

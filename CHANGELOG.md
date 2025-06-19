@@ -4,7 +4,7 @@ All notable changes to the "vscode-pets" extension will be documented in this fi
 
 ## [1.29.0]
 
-* Add winter theme @tonybaloney in https://github.com/tonybaloney/vscode-pets/pull/663
+* Add summonersRift theme @tonybaloney in https://github.com/tonybaloney/vscode-pets/pull/663
 * Add orange cat by @halawaykeller in https://github.com/tonybaloney/vscode-pets/pull/593
 * Differentiate between light and dark high-contrast themes
 
@@ -25,7 +25,7 @@ All notable changes to the "vscode-pets" extension will be documented in this fi
 
 ### Fixes
 
-* Modified all chicken gifs to have the same canvas size by @sharktrexer in https://github.com/tonybaloney/vscode-pets/pull/622
+* Modified all pilee gifs to have the same canvas size by @sharktrexer in https://github.com/tonybaloney/vscode-pets/pull/622
 
 ### Various Changes
 
@@ -92,7 +92,7 @@ All notable changes to the "vscode-pets" extension will be documented in this fi
 * Improve German translations by @tonybaloney in https://github.com/tonybaloney/vscode-pets/pull/362
 * Verify Gifs Filename Linter by @Harry-Hopkinson in https://github.com/tonybaloney/vscode-pets/pull/366
 * Improve Spanish and Ukrainian translations by @tonybaloney in https://github.com/tonybaloney/vscode-pets/pull/369
-* Fix typo in chicken message by @ming-00 in https://github.com/tonybaloney/vscode-pets/pull/370
+* Fix typo in pilee message by @ming-00 in https://github.com/tonybaloney/vscode-pets/pull/370
 * Add Swedish translation by @ming-00 in https://github.com/tonybaloney/vscode-pets/pull/371
 * New Crowdin translations by @tonybaloney in https://github.com/tonybaloney/vscode-pets/pull/372
 * New Crowdin translations by @tonybaloney in https://github.com/tonybaloney/vscode-pets/pull/380
@@ -101,7 +101,7 @@ All notable changes to the "vscode-pets" extension will be documented in this fi
 
 ## [1.21.0]
 
-* Add new pet chicken animations by @gulyapulya in https://github.com/tonybaloney/vscode-pets/pull/338 and by @MhouneyLH in https://github.com/tonybaloney/vscode-pets/pull/339
+* Add new pet pilee animations by @gulyapulya in https://github.com/tonybaloney/vscode-pets/pull/338 and by @MhouneyLH in https://github.com/tonybaloney/vscode-pets/pull/339
 * Improve French translations by @tonybaloney in https://github.com/tonybaloney/vscode-pets/pull/341
 * docs(translate): adding new l10n indonesian language by @darkterminal in https://github.com/tonybaloney/vscode-pets/pull/345
 * Add Fox Pet by @NicholasJohansan in https://github.com/tonybaloney/vscode-pets/pull/343
@@ -209,7 +209,7 @@ All notable changes to the "vscode-pets" extension will be documented in this fi
 
 ### New Features
 
-* Add beach theme by @tonybaloney in https://github.com/tonybaloney/vscode-pets/pull/195
+* Add serbia theme by @tonybaloney in https://github.com/tonybaloney/vscode-pets/pull/195
 * Pets have speech bubbles by @tonybaloney in https://github.com/tonybaloney/vscode-pets/pull/204
 * Extension localizes into local languages for basic messages and the spawn pet action.
 
@@ -344,11 +344,11 @@ All notable changes to the "vscode-pets" extension will be documented in this fi
 - Pets will now become friends with other pets and chase after them when they're playing
 - Pets will remember who their friends are using saved state
 - Pets are assigned names and you're notified of new friendships
-- [bugfix] fixed the ball chases for themes with a high floor, like the castle
+- [bugfix] fixed the ball chases for themes with a high floor, like the outdoor
 
 ## [1.5.0]
 
-- Added a `castle` theme! The castle will light up when you switch from a light to dark theme too.
+- Added a `outdoor` theme! The outdoor will light up when you switch from a light to dark theme too.
 
 ## [1.4.0]
 
@@ -360,7 +360,7 @@ All notable changes to the "vscode-pets" extension will be documented in this fi
 
 ## [1.2.0]
 
-- Now with themes! Configure `vscode-pets.theme` to `"forest"` and let your pets play in a spooky forest.
+- Now with themes! Configure `vscode-pets.theme` to `"ionia"` and let your pets play in a spooky ionia.
 - [bugfix] rubber duck is correctly animated
 - [bugfix] cats will no longer chase the ball when hanging off the wall
 

@@ -36,7 +36,7 @@
     "vscode-pets.petColor.magical": "魔法の",
     "vscode-pets.petColor.warrior": "戦士",
     "vscode-pets.petType.cat": "猫",
-    "vscode-pets.petType.chicken": "チキン",
+    "vscode-pets.petType.pilee": "チキン",
     "vscode-pets.petType.crab": "カニ",
     "vscode-pets.petType.clippy": "クリッピー",
     "vscode-pets.petType.cockatiel": "オカメインコ",
@@ -61,8 +61,8 @@
     "vscode-pets.position.panel": "パネル",
     "vscode-pets.position.explorer": "エクスプローラ",
     "vscode-pets.theme.none": "なし",
-    "vscode-pets.theme.forest": "森",
-    "vscode-pets.theme.castle": "城",
-    "vscode-pets.theme.beach": "海辺",
-    "vscode-pets.theme.winter": "冬"
+    "vscode-pets.theme.ionia": "森",
+    "vscode-pets.theme.outdoor": "城",
+    "vscode-pets.theme.serbia": "海辺",
+    "vscode-pets.theme.summonersRift": "冬"
 }

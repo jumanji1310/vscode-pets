@@ -4,7 +4,7 @@ An extension for VS Code that puts pets in your editor to keep you company whils
 
 [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/tonybaloney.vscode-pets?color=blue&logo=visual-studio)](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets&WT.mc_id=python-17801-anthonyshaw)
 
-![Usage screenshot](source/_static/winter.gif)
+![Usage screenshot](source/_static/summonersRift.gif)
 
 ## Installation
 

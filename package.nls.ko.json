@@ -36,7 +36,7 @@
     "vscode-pets.petColor.magical": "유니콘",
     "vscode-pets.petColor.warrior": "적토마",
     "vscode-pets.petType.cat": "고양이",
-    "vscode-pets.petType.chicken": "닭",
+    "vscode-pets.petType.pilee": "닭",
     "vscode-pets.petType.crab": "게",
     "vscode-pets.petType.clippy": "클립",
     "vscode-pets.petType.cockatiel": "왕관 앵무",
@@ -61,8 +61,8 @@
     "vscode-pets.position.panel": "패널",
     "vscode-pets.position.explorer": "탐색기",
     "vscode-pets.theme.none": "없음",
-    "vscode-pets.theme.forest": "숲",
-    "vscode-pets.theme.castle": "성",
-    "vscode-pets.theme.beach": "해변",
-    "vscode-pets.theme.winter": "겨울"
+    "vscode-pets.theme.ionia": "숲",
+    "vscode-pets.theme.outdoor": "성",
+    "vscode-pets.theme.serbia": "해변",
+    "vscode-pets.theme.summonersRift": "겨울"
 }

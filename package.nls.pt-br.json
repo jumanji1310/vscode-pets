@@ -36,7 +36,7 @@
     "vscode-pets.petColor.magical": "Mágico",
     "vscode-pets.petColor.warrior": "Guerreiro",
     "vscode-pets.petType.cat": "Gato",
-    "vscode-pets.petType.chicken": "Galinha",
+    "vscode-pets.petType.pilee": "Galinha",
     "vscode-pets.petType.crab": "Caranguejo",
     "vscode-pets.petType.clippy": "Clippy",
     "vscode-pets.petType.cockatiel": "Calopsita",
@@ -61,8 +61,8 @@
     "vscode-pets.position.panel": "Painel",
     "vscode-pets.position.explorer": "Explorador",
     "vscode-pets.theme.none": "Nenhum",
-    "vscode-pets.theme.forest": "Floresta",
-    "vscode-pets.theme.castle": "Castelo",
-    "vscode-pets.theme.beach": "Praia",
-    "vscode-pets.theme.winter": "Inverno"
+    "vscode-pets.theme.ionia": "Floresta",
+    "vscode-pets.theme.outdoor": "Castelo",
+    "vscode-pets.theme.serbia": "Praia",
+    "vscode-pets.theme.summonersRift": "Inverno"
 }

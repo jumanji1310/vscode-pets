@@ -2,20 +2,20 @@
 
 VS Code Pets comes with themes. Themes are set from the VS Code Preferences Window. Search for "vscode-pets" to find the VS Code Pets specific settings.
 
-Configure `vscode-pets.theme` to `"forest"` and let your pets play in a spooky forest.
+Configure `vscode-pets.theme` to `"ionia"` and let your pets play in a spooky ionia.
 
-![Forest theme](source/_static/forest.gif)
+![Ionia theme](source/_static/ionia.gif)
 
-Set `vscode-pets.theme` to `"castle"` for them to roam the ramparts!
+Set `vscode-pets.theme` to `"outdoor"` for them to roam the ramparts!
 
-![Castle theme](source/_static/castle.gif)
+![Outdoor theme](source/_static/outdoor.gif)
 
-Set `vscode-pets.theme` to `"beach"` for your friends to play by the ocean.
+Set `vscode-pets.theme` to `"serbia"` for your friends to play by the ocean.
 
-![Beach theme](source/_static/beach-pose.png)
+![Serbia theme](source/_static/serbia-pose.png)
 
-Set `vscode-pets.theme` to `"winter"` for your pets roam around the snowy mountains.
+Set `vscode-pets.theme` to `"summonersRift"` for your pets roam around the snowy mountains.
 
-![Winter theme](source/_static/winter.gif)
+![SummonersRift theme](source/_static/summonersRift.gif)
 
 If you find the snowfall too distracting, you can disable special effects in settings.

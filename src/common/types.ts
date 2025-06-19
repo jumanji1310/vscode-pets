@@ -25,7 +25,7 @@ export const enum PetColor {
 export const enum PetType {
     bunny = 'bunny',
     cat = 'cat',
-    chicken = 'chicken',
+    pilee = 'pilee',
     clippy = 'clippy',
     cockatiel = 'cockatiel',
     crab = 'crab',
@@ -70,10 +70,10 @@ export const enum ExtPosition {
 
 export const enum Theme {
     none = 'none',
-    forest = 'forest',
-    castle = 'castle',
-    beach = 'beach',
-    winter = 'winter',
+    ionia = 'ionia',
+    outdoor = 'outdoor',
+    serbia = 'serbia',
+    summonersRift = 'summonersRift',
 }
 
 export const enum ColorThemeKind {
@@ -96,7 +96,7 @@ export class WebviewMessage {
 export const ALL_PETS = [
     PetType.bunny,
     PetType.cat,
-    PetType.chicken,
+    PetType.pilee,
     PetType.clippy,
     PetType.cockatiel,
     PetType.crab,
@@ -146,8 +146,8 @@ export const ALL_SCALES = [
 ];
 export const ALL_THEMES = [
     Theme.none,
-    Theme.forest,
-    Theme.castle,
-    Theme.beach,
-    Theme.winter,
+    Theme.ionia,
+    Theme.outdoor,
+    Theme.serbia,
+    Theme.summonersRift,
 ];

@@ -36,7 +36,7 @@
     "vscode-pets.petColor.magical": "Magical",
     "vscode-pets.petColor.warrior": "Warrior",
     "vscode-pets.petType.cat": "Cica",
-    "vscode-pets.petType.chicken": "Chicken",
+    "vscode-pets.petType.pilee": "Pilee",
     "vscode-pets.petType.crab": "Tarisznyarák",
     "vscode-pets.petType.clippy": "'Gem Géza'",
     "vscode-pets.petType.cockatiel": "Kakadu",
@@ -61,8 +61,8 @@
     "vscode-pets.position.panel": "Panel",
     "vscode-pets.position.explorer": "Explorer",
     "vscode-pets.theme.none": "None",
-    "vscode-pets.theme.forest": "Forest",
-    "vscode-pets.theme.castle": "Castle",
-    "vscode-pets.theme.beach": "Beach",
-    "vscode-pets.theme.winter": "Winter"
+    "vscode-pets.theme.ionia": "Ionia",
+    "vscode-pets.theme.outdoor": "Outdoor",
+    "vscode-pets.theme.serbia": "Serbia",
+    "vscode-pets.theme.summonersRift": "SummonersRift"
 }

@@ -1,26 +1,25 @@
 {
-    "name": "vscode-pets",
-    "displayName": "vscode-pets",
-    "description": "Pets for your VS Code",
-    "version": "1.31.0",
-    "engines": {
-        "vscode": "^1.73.0"
-    },
-    "l10n": "./l10n",
-    "repository": {
-        "type": "github",
-        "url": "https://github.com/tonybaloney/vscode-pets"
-    },
-    "homepage": "https://tonybaloney.github.io/vscode-pets",
-    "bugs": "https://github.com/tonybaloney/vscode-pets/issues",
-    "publisher": "tonybaloney",
+	"name": "vscode-pets-jj",
+	"displayName": "vscode-pets-jj",
+	"description": "Pets for your VS Code",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.73.0"
+	},
+	"l10n": "./l10n",
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/jumanji1310/vscode-pets"
+	},
+	"bugs": "https://github.com/jumanji1310/vscode-pets/issues",
+	"publisher": "jj",
     "categories": [
         "Other"
     ],
     "keywords": [
         "pet",
         "cat",
-        "chicken",
+        "pilee",
         "dog",
         "pets",
         "clippy",
@@ -201,7 +200,7 @@
                         "type": "string",
                         "enum": [
                             "cat",
-                            "chicken",
+                            "pilee",
                             "crab",
                             "clippy",
                             "cockatiel",
@@ -225,7 +224,7 @@
                         "scope": "window",
                         "enumItemLabels": [
                             "%vscode-pets.petType.cat%",
-                            "%vscode-pets.petType.chicken%",
+                            "%vscode-pets.petType.pilee%",
                             "%vscode-pets.petType.crab%",
                             "%vscode-pets.petType.clippy%",
                             "%vscode-pets.petType.cockatiel%",
@@ -279,19 +278,19 @@
                         "type": "string",
                         "enum": [
                             "none",
-                            "forest",
-                            "castle",
-                            "beach",
-                            "winter"
+                            "ionia",
+                            "outdoor",
+                            "serbia",
+                            "summonersRift"
                         ],
                         "default": "none",
                         "description": "%vscode-pets.theme.description%",
                         "enumItemLabels": [
                             "%vscode-pets.theme.none%",
-                            "%vscode-pets.theme.forest%",
-                            "%vscode-pets.theme.castle%",
-                            "%vscode-pets.theme.beach%",
-                            "%vscode-pets.theme.winter%"
+                            "%vscode-pets.theme.ionia%",
+                            "%vscode-pets.theme.outdoor%",
+                            "%vscode-pets.theme.serbia%",
+                            "%vscode-pets.theme.summonersRift%"
                         ]
                     },
                     "vscode-pets.throwBallWithMouse": {

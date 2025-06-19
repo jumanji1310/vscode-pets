@@ -36,7 +36,7 @@
     "vscode-pets.petColor.magical": "Волшебник",
     "vscode-pets.petColor.warrior": "Боец",
     "vscode-pets.petType.cat": "Кот",
-    "vscode-pets.petType.chicken": "Chicken",
+    "vscode-pets.petType.pilee": "Pilee",
     "vscode-pets.petType.crab": "Краб",
     "vscode-pets.petType.clippy": "Скрепка",
     "vscode-pets.petType.cockatiel": "Корелла",
@@ -61,8 +61,8 @@
     "vscode-pets.position.panel": "Panel",
     "vscode-pets.position.explorer": "Explorer",
     "vscode-pets.theme.none": "None",
-    "vscode-pets.theme.forest": "Forest",
-    "vscode-pets.theme.castle": "Castle",
-    "vscode-pets.theme.beach": "Beach",
-    "vscode-pets.theme.winter": "Зимний Лес"
+    "vscode-pets.theme.ionia": "Ionia",
+    "vscode-pets.theme.outdoor": "Outdoor",
+    "vscode-pets.theme.serbia": "Serbia",
+    "vscode-pets.theme.summonersRift": "Зимний Лес"
 }

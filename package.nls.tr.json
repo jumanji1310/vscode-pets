@@ -36,7 +36,7 @@
     "vscode-pets.petColor.magical": "Sihirli",
     "vscode-pets.petColor.warrior": "Savaşçı",
     "vscode-pets.petType.cat": "Kedi",
-    "vscode-pets.petType.chicken": "Tavuk",
+    "vscode-pets.petType.pilee": "Tavuk",
     "vscode-pets.petType.crab": "Yengeç",
     "vscode-pets.petType.clippy": "Ataç",
     "vscode-pets.petType.cockatiel": "Sultan Papağanı",
@@ -61,8 +61,8 @@
     "vscode-pets.position.panel": "Panel",
     "vscode-pets.position.explorer": "Gezgin",
     "vscode-pets.theme.none": "Hiçbiri",
-    "vscode-pets.theme.forest": "Orman",
-    "vscode-pets.theme.castle": "Kale",
-    "vscode-pets.theme.beach": "Kumsal",
-    "vscode-pets.theme.winter": "Kış"
+    "vscode-pets.theme.ionia": "Orman",
+    "vscode-pets.theme.outdoor": "Kale",
+    "vscode-pets.theme.serbia": "Kumsal",
+    "vscode-pets.theme.summonersRift": "Kış"
 }

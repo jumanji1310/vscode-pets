@@ -1,7 +1,7 @@
 import { PetColor, PetSize, PetSpeed, PetType } from '../common/types';
 import { Bunny } from './pets/bunny';
 import { Cat } from './pets/cat';
-import { Chicken } from './pets/chicken';
+import { Pilee } from './pets/pilee';
 import { Clippy } from './pets/clippy';
 import { Cockatiel } from './pets/cockatiel';
 import { Crab } from './pets/crab';
@@ -203,8 +203,8 @@ export function createPet(
             return new Bunny(...standardPetArguments, PetSpeed.veryFast);
         case PetType.cat:
             return new Cat(...standardPetArguments, PetSpeed.normal);
-        case PetType.chicken:
-            return new Chicken(...standardPetArguments, PetSpeed.normal);
+        case PetType.pilee:
+            return new Pilee(...standardPetArguments, PetSpeed.normal);
         case PetType.deno:
             return new Deno(...standardPetArguments, PetSpeed.slow);
         case PetType.dog:
@@ -252,8 +252,8 @@ export function availableColors(petType: PetType): PetColor[] {
             return Bunny.possibleColors;
         case PetType.cat:
             return Cat.possibleColors;
-        case PetType.chicken:
-            return Chicken.possibleColors;
+        case PetType.pilee:
+            return Pilee.possibleColors;
         case PetType.dog:
             return Dog.possibleColors;
         case PetType.deno:

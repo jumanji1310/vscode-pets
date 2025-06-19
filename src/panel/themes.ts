@@ -63,9 +63,9 @@ export class ThemeInfo implements AbstractThemeInfo {
     }
 }
 
-class ForestThemeInfo extends ThemeInfo {
-    name = 'forest';
-    description = 'A forest theme';
+class IoniaThemeInfo extends ThemeInfo {
+    name = 'ionia';
+    description = 'A ionia theme';
     effect = new StarEffect();
 
     floor(size: PetSize): number {
@@ -83,9 +83,9 @@ class ForestThemeInfo extends ThemeInfo {
     }
 }
 
-class CastleThemeInfo extends ThemeInfo {
-    name = 'castle';
-    description = 'A castle theme';
+class OutdoorThemeInfo extends ThemeInfo {
+    name = 'outdoor';
+    description = 'A outdoor theme';
 
     floor(size: PetSize): number {
         switch (size) {
@@ -102,9 +102,9 @@ class CastleThemeInfo extends ThemeInfo {
     }
 }
 
-class BeachThemeInfo extends ThemeInfo {
-    name = 'beach';
-    description = 'A beach theme';
+class SerbiaThemeInfo extends ThemeInfo {
+    name = 'serbia';
+    description = 'A serbia theme';
     effect = new StarEffect();
 
     floor(size: PetSize): number {
@@ -122,9 +122,9 @@ class BeachThemeInfo extends ThemeInfo {
     }
 }
 
-class WinterThemeInfo extends ThemeInfo {
-    name = 'winter';
-    description = 'A winter theme';
+class SummonersRiftThemeInfo extends ThemeInfo {
+    name = 'summonersRift';
+    description = 'A summonersRift theme';
     effect = new SnowEffect();
 
     floor(size: PetSize): number {
@@ -161,8 +161,8 @@ export const THEMES: Record<Theme, ThemeInfo> = {
         ) => '',
         /* eslint-enable no-unused-vars */
     },
-    forest: new ForestThemeInfo(),
-    castle: new CastleThemeInfo(),
-    beach: new BeachThemeInfo(),
-    winter: new WinterThemeInfo(),
+    ionia: new IoniaThemeInfo(),
+    outdoor: new OutdoorThemeInfo(),
+    serbia: new SerbiaThemeInfo(),
+    summonersRift: new SummonersRiftThemeInfo(),
 };

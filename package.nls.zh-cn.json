@@ -36,7 +36,7 @@
     "vscode-pets.petColor.magical": "魔法的",
     "vscode-pets.petColor.warrior": "战士",
     "vscode-pets.petType.cat": "小猫座",
-    "vscode-pets.petType.chicken": "鸡",
+    "vscode-pets.petType.pilee": "鸡",
     "vscode-pets.petType.crab": "螃蟹",
     "vscode-pets.petType.clippy": "回形针",
     "vscode-pets.petType.cockatiel": "鹦鹉",
@@ -61,8 +61,8 @@
     "vscode-pets.position.panel": "面板",
     "vscode-pets.position.explorer": "资源管理器",
     "vscode-pets.theme.none": "无",
-    "vscode-pets.theme.forest": "森林",
-    "vscode-pets.theme.castle": "城堡",
-    "vscode-pets.theme.beach": "海滩",
-    "vscode-pets.theme.winter": "冬日"
+    "vscode-pets.theme.ionia": "森林",
+    "vscode-pets.theme.outdoor": "城堡",
+    "vscode-pets.theme.serbia": "海滩",
+    "vscode-pets.theme.summonersRift": "冬日"
 }

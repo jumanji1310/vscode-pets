@@ -66,7 +66,6 @@ export class ThemeInfo implements AbstractThemeInfo {
 class IoniaThemeInfo extends ThemeInfo {
     name = 'ionia';
     description = 'A ionia theme';
-    effect = new StarEffect();
 
     floor(size: PetSize): number {
         switch (size) {
@@ -90,14 +89,14 @@ class OutdoorThemeInfo extends ThemeInfo {
     floor(size: PetSize): number {
         switch (size) {
             case PetSize.small:
-                return 60;
+                return 90;
             case PetSize.medium:
-                return 80;
-            case PetSize.large:
                 return 120;
+            case PetSize.large:
+                return 180;
             case PetSize.nano:
             default:
-                return 45;
+                return 65;
         }
     }
 }
@@ -105,7 +104,6 @@ class OutdoorThemeInfo extends ThemeInfo {
 class SerbiaThemeInfo extends ThemeInfo {
     name = 'serbia';
     description = 'A serbia theme';
-    effect = new StarEffect();
 
     floor(size: PetSize): number {
         switch (size) {
@@ -125,7 +123,6 @@ class SerbiaThemeInfo extends ThemeInfo {
 class SummonersRiftThemeInfo extends ThemeInfo {
     name = 'summonersRift';
     description = 'A summonersRift theme';
-    effect = new SnowEffect();
 
     floor(size: PetSize): number {
         switch (size) {
